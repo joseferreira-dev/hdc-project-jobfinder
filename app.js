@@ -25,7 +25,7 @@ db
 
 // routes
 app.get('/', (req, res) => {
-	res.send("Está funcionando 25");
+	res.send("Está funcionando");
 });
 
 // job routes
